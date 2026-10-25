@@ -620,12 +620,12 @@ export default function Home() {
             <div>
               <span className="text-zinc-500 block uppercase text-[9px] tracking-[0.25em] mb-0.5">Instagram</span>
               <a
-                href="https://instagram.com/yrlooksphotography"
+                href="https://instagram.com/yrlooks.photography"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-zinc-200 hover:text-amber-400 transition-colors underline underline-offset-4"
               >
-                @yrlooksphotography
+                @yrlooks.photography
               </a>
             </div>
           </div>
